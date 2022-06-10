@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My ApplicationC</string>
+
+        <string name="folder_name">Folder Name</string>
+        <string name="file_name">File Name</string>
+        <string name="content">Content</string>
+        <string name="write_file">Create File</string>
+        <string name="read_file">Read File</string>
+        <string name="delete_file">Delete File</string>
+        <string name="done">Done</string>
+</resources>
